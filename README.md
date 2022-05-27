@@ -9,22 +9,22 @@
 #### JavaScript
 
 - [ ] [原型链](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/1)
-- [ ] 继承
-- [ ] 作用域
-- [ ] 闭包
-- [ ] 变量提升
-- [ ] this的指向
-- [ ] 立即执行函数
-- [ ] instanceof原理
-- [ ] bind的实现
-- [ ] apply和call
-- [ ] 柯里化
-- [ ] v8垃圾回收机制
-- [ ] 浮点数精度
-- [ ] new操作符
-- [ ] 事件循环机制
-- [ ] promise原理
-- [ ] generator原理
+- [ ] [继承](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/2)
+- [ ] [作用域](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/3)
+- [ ] [闭包](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/4)
+- [ ] [变量提升](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/5)
+- [ ] [this的指向](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/6)
+- [ ] [立即执行函数](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/7)
+- [ ] [instanceof原理](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/8)
+- [ ] [bind的实现](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/9)
+- [ ] [apply和call](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/10)
+- [ ] [柯里化](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/11)
+- [ ] [v8垃圾回收机制](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/12)
+- [ ] [浮点数精度](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/13)
+- [ ] [new操作符](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/14)
+- [ ] [事件循环机制](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/15)
+- [ ] [promise原理](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/16)
+- [ ] [generator原理](https://github.com/zzcyes/bytedance-fe-interview-knowledge/issues/17)
 
 #### CSS 
 
