@@ -1,0 +1,19 @@
+{
+    "name": "bytedance-fe-interview-knowledge",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:zzcyes/bytedance-front-end-interview-knowledge.git",
+    "author": "zhongzichen <zhongzichen1997@163.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc",
+        "watch": "tsc --watch",
+        "start:watch": "tsc --watch",
+        "start:complie": "nodemon node ./build/main.js",
+        "start": "concurrently yarn:start:*"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16",
+        "concurrently": "^7.2.1"
+    }
+}
