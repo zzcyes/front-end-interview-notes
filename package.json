@@ -1,8 +1,8 @@
 {
-    "name": "bytedance-fe-interview-knowledge",
+    "name": "front-end-interview-notes",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "git@github.com:zzcyes/bytedance-front-end-interview-knowledge.git",
+    "repository": "git@github.com:zzcyes/front-end-interview-notes.git",
     "author": "zhongzichen <zhongzichen1997@163.com>",
     "license": "MIT",
     "scripts": {
