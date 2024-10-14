@@ -2,15 +2,13 @@
     "name": "front-end-interview-notes",
     "version": "1.0.0",
     "main": "index.js",
+    "type": "module",
     "repository": "git@github.com:zzcyes/front-end-interview-notes.git",
     "author": "zhongzichen <zhongzichen1997@163.com>",
     "license": "MIT",
     "scripts": {
-        "build": "tsc",
-        "watch": "tsc --watch",
-        "start:watch": "tsc --watch",
-        "start:complie": "nodemon node ./build/main.js",
-        "start": "concurrently yarn:start:*"
+        "watch": "nodemon node src/main.js",
+        "start": "concurrently pnpm:start:*"
     },
     "devDependencies": {
         "nodemon": "^2.0.16",
